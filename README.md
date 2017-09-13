@@ -1,6 +1,7 @@
 # 目錄
 
-[百鬼-symbol-動圖展示](#百鬼-symbol-動圖展示)
+[百鬼 symbol 動圖展示](#百鬼-symbol-動圖展示)
+[top20 排行榜](#top20-排行榜)
 
 ## 百鬼 Symbol 動圖展示
 
@@ -17,3 +18,7 @@
 ![item10](gif/item10.gif)
 ![item11](gif/item11.gif)
 ![item12](gif/item12.gif)
+
+## top20 排行榜
+
+![top20](images/top20.png)
