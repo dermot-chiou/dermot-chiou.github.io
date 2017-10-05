@@ -1,6 +1,7 @@
 網速CDN 測試
 
 - [測試連結 http://poker.watvip.cn/](http://poker.watvip.cn/slot/user/signin)
+- [Azure 測試連結](http://azure-test.sytepoker.com/slot/user/signin)
 
 	| 帳號 | 密碼 |
 	|:---:|:----:|
